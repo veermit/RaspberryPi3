@@ -1,0 +1,9 @@
+Connect raspi with ethernate without IP
+  raspberrypi.local
+   UserName: pi
+   Passwd: raspberry
+
+Now access raspiberry
+  Use sudo -i
+  raspi-config
+  and connect with wifi
