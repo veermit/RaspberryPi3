@@ -1,0 +1,6 @@
+Install XRDP in raspberry
+
+sudo -i
+apt-get install xrdp
+
+Now one can access raspberry through Windows remote desktop with Rpi IP address.
