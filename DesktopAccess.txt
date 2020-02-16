@@ -4,3 +4,10 @@ sudo -i
 apt-get install xrdp
 
 Now one can access raspberry through Windows remote desktop with Rpi IP address.
+
+
+Enable VNC in raspi
+
+sudo -i
+raspi-config
+In Interface enable VNC 
